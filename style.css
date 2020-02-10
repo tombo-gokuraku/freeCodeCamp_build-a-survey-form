@@ -1,0 +1,15 @@
+main {
+  background-color: #eee;
+}
+#title {
+  margin: 0 auto;
+}
+
+#survey-form input,
+label {
+  display: block;
+}
+
+option:disabled {
+  color: black;
+}
